@@ -1542,7 +1542,7 @@ split-large-forms 0
 #
 #      keep-alive-timeout 300
 #
-keep-alive-timeout 5
+#keep-alive-timeout 5
 #
 #
 #  6.5. default-server-timeout
